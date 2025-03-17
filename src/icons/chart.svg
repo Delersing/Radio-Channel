@@ -1,0 +1,18 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_124)">
+<path d="M50 0H0V50H50V0Z" fill="#FFFBDB"/>
+<path d="M0.5 49.5V0.5H49.5V49.5H0.5Z" stroke="black" stroke-opacity="0.58"/>
+<path d="M38.8529 8.78458H31.9177V41.1488H38.8529V8.78458Z" fill="#1C4E80" stroke="black" stroke-miterlimit="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.7641 22.6549H8.82892V41.1488H15.7641V22.6549Z" fill="#EA6A47" stroke="black" stroke-miterlimit="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.3228 13.4081H20.3876V41.1488H27.3228V13.4081Z" fill="white" stroke="black" stroke-miterlimit="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.4247 8.59966L4.20544 4.16113L1.98617 8.59966H6.4247Z" fill="#202020"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.3782 43.553L45.8167 45.7723L41.3782 47.9916V43.553Z" fill="#202020"/>
+<line x1="3.33332" y1="45.6666" x2="41.6667" y2="45.6666" stroke="#202020" stroke-width="2"/>
+<line x1="4.33332" y1="6.66663" x2="4.33332" y2="45.8333" stroke="#202020" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_1_124">
+<rect width="50" height="49.9334" fill="white"/>
+</clipPath>
+</defs>
+</svg>
